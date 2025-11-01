@@ -1,0 +1,9 @@
+
+.table-admin-statistics {
+    width: 75%;
+}
+@media(max-width: 1100px) {
+    .table-admin-statistics {
+        width: 90%;
+    }
+}
