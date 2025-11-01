@@ -124,6 +124,8 @@ php artisan key:generate
 CREATE DATABASE `adtech_platform`;
 ```
 
+![Data Base](public/img/db.png)
+
 
 ### Обновите ```.env``` файл:
 ```env
